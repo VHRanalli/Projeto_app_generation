@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flamengo Curiosidades</string>
+    <string name="btnText">Curiosidade</string>
+    <string name="txt_aleatorio">Automação</string>
+    <string name="texto_principal"></string>
+
+</resources>
